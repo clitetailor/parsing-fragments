@@ -1,0 +1,3 @@
+/public/*
+!/public/global.css
+!/public/index.html
